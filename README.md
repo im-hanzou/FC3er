@@ -12,7 +12,7 @@ You can install WSL (windows subsystem linux) then do install like linux<br>if y
 <b>command</b> <br># <code>apt-get install jq -y</code><br>
 - Windows : <br>
 For WSL just do install like linux, For gitbash you can do this command<br>
-<b>command</b>: # <code>curl -L -o C:/Program\ Files/Git/usr/bin/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe</code>
+[#] <code>curl -L -o C:/Program\ Files/Git/usr/bin/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe</code>
 # How To Use
 - [#] <code>bash fc3er.sh yourlist.txt thread</code>
 # Reference
